@@ -1,6 +1,6 @@
 {
   "name": "@hugodf/sequelize-cli",
-  "version": "5.3.1",
+  "version": "5.4.0",
   "description": "Hugo's fork of the Sequelize CLI",
   "publishConfig": {
     "access": "public"
